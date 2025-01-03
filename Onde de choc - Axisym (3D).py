@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Ondes de choc autour d'une ogive (Modèle Axisymétriaue)- Analyse complète
+Ondes de choc autour d'une ogive (Modèle Axisymétriaue - 3D)- Analyse complète
 Créé le : 12 Décembre 2024
 Auteur : MAFFIA Edoardo
 """
